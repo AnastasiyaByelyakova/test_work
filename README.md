@@ -4,7 +4,15 @@ This project uses Poetry for dependency management.
 
 ### 1. Project Setup
 
-To set up the project, navigate to the project's root directory and run the following command to create a virtual environment and install the dependencies:
+To set up the project, navigate to the project's root directory and run the following commands. 
+
+1) To nstall poetry dependency management package
+  
+```bash
+pip install poetry
+```
+
+2) To create a virtual environment and install the dependencies:
 
 ```bash
 poetry install
